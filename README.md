@@ -1,2 +1,2 @@
 # Game-Connected
-Simple game
+Android
